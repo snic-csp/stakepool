@@ -1,0 +1,22 @@
+{
+       "info": {
+        "location": "Invercargill, New Zealand",
+        "social": {
+            "twitter_handle": "46south1",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "Cardano enthusiast, crypto believer",
+            "server": "World's southernmost Cardano Stake Pool running on bare metal servers. Running on world's southernmost Starlink cell",
+             },
+        
+    "my-pool-ids": {
+        "0": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
+        },
+       }
+}
