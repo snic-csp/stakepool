@@ -3,4 +3,5 @@
 "description": "46 South Stake Pool - World's southernmost Cardano stake pool running on world’s southernmost Starlink connection",
 "ticker": "46S",
 "homepage": "https://twitter.com/46south1"
+"extended": "https://raw.githubusercontent.com/snic-csp/stakepool/master/extended-meta.json"
 }
