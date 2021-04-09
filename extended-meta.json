@@ -1,5 +1,7 @@
 {
        "info": {
+        "url_png_icon_64x64": "https://github.com/snic-csp/stakepool/raw/master/IMG-20210323-WA0000%20(Custom).jpg",
+        "url_png_logo": "https://github.com/snic-csp/stakepool/raw/master/IMG-20210323-WA0000.jpg",
         "location": "Invercargill, New Zealand",
         "social": {
             "twitter_handle": "46south1",
@@ -10,13 +12,43 @@
             "discord_handle": "",
             "github_handle": ""
         },
+               "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
         "about": {
             "me": "Cardano enthusiast, crypto believer",
             "server": "World's southernmost Cardano Stake Pool running on bare metal servers. Running on world's southernmost Starlink cell",
+            "company": ""
              },
         
     "my-pool-ids": {
         "0": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
         },
+    "when-satured-then-recommend": {
+        "0": ""
+        },
+     "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
        }
 }
