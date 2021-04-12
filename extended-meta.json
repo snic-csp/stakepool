@@ -29,10 +29,7 @@
     "my-pool-ids": {
         "0": "12d4d2f7a7c5b4ae10853d093257d71bd3ac6d2abccc2b65fc0bff8f",
         },
-    "when-satured-then-recommend": {
-        "0": ""
-        },
-     "adapools_ext": {
+    "adapools_ext": {
         "prometheus": {
             "0": {
                 "name": "",
