@@ -6,7 +6,7 @@
 		"social": {
 			"twitter_handle": "46south1",
 			"telegram_handle": "CSP_46S",
-			"facebook_handle": "",
+			"facebook_handle": "46South",
 			"youtube_handle": "",
 			"twitch_handle": "",
 			"discord_handle": "",
@@ -15,8 +15,8 @@
 		"company": {
 			"name": "",
 			"addr": "",
-			"city": "",
-			"country": "",
+			"city": "Invercargill",
+			"country": "New Zealand",
 			"company_id": "",
 			"vat_id": ""
 		},
