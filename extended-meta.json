@@ -35,7 +35,7 @@
 		"adapools_ext": {
 			"prometheus": {
 				"0": {
-					"name": "",
+					"name": "a6de9d9bad86d6644b",
 					"type": "",
 					"key": ""
 				},
@@ -52,5 +52,5 @@
 			}
 		}
 	}
-	a6de9d9bad86d6644b
+	
 }
