@@ -1,7 +1,7 @@
 {
 "name": "46 South Stake Pool",
-"description": "46 South Stake Pool - The world's southernmost Cardano stake pool. Running on 100% renewable energy. Located in Invercargill, New Zealand (46 degrees South!)",
+"description": "46 South Stake Pool - The world's southernmost Cardano stake pool. Baremetal running on 100% renewable energy. Located in Invercargill, New Zealand (46 degrees South!)",
 "ticker": "46S",
-"homepage": "https://46s.au.ngrok.io",
+"homepage": "https://46south.io",
 "extended": "https://raw.githubusercontent.com/snic-csp/stakepool/master/extended-meta.json"
 }
