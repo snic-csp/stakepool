@@ -1,0 +1,56 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://www.46south.io/wp-content/uploads/2023/02/46S-64x64.PNG",
+		"url_png_logo": "https://www.46south.io/wp-content/uploads/2023/02/46S_Transparent-1-1.png",
+		"location": "Invercargill, New Zealand",
+		"social": {
+			"twitter_handle": "46south1",
+			"telegram_handle": "CSP_46S",
+			"facebook_handle": "46South",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": ""
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "Invercargill",
+			"country": "New Zealand",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Cardano enthusiast, crypto believer",
+			"server": "World's southernmost Cardano Stake Pool running on bare metal servers. Running on 100% renewable energy. Located in Invercargill, New Zealand",
+			"company": ""
+		},
+
+		"my-pool-ids": {
+			"0": "cff2b3f3a35971c747fb9ac174cd49ad469a29a8d328108ad8240c65"
+		},
+		"when-satured-then-recommend": {
+			"0": ""
+		},
+		"adapools_ext": {
+			"prometheus": {
+				"0": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"1": {
+					"name": "",
+					"type": "",
+					"key": ""
+				},
+				"2": {
+					"name": "",
+					"type": "",
+					"key": ""
+				}
+			}
+		}
+	}
+	
+}
